@@ -1,6 +1,5 @@
 .github/**
 #Names of project data files
-bikeshare.py
 Chicago.csv
 NYC.csv
 Washington.csv
