@@ -4,15 +4,23 @@ documetation
 ### Date created
 10 July 2023 
 ### Project Title
-Git vcommand project
+ Git Commands Documentation Project
 
 ### Description
-Describe what your project is about and what it does
+Project is to manage respositories and branches changes
 
 ### Files used
 README.md
 gitignore
-
+bikeshare.py
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://www.varonis.com/blog/git-branching#:~:text=To%20merge%20branches%20locally%2C%20use,branch%20into%20the%20main%20branch.
+
+https://stackoverflow.com/questions/5601931/how-do-i-safely-merge-a-git-branch-into-master
+
+https://www.atlassian.com/git/tutorials/using-branches/git-merge
+
+https://docs.github.com/en/get-started/quickstart/github-glossary#push
+
+
 
