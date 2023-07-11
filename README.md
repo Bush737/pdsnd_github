@@ -3,17 +3,17 @@
 documetation
 ### Date created
 10 July 2023 
-### Project Title
+# Project Title
  Git Commands Documentation Project
 
-### Description
+# Description
 Project is to manage respositories and branches changes
 
-### Files used
+# Files used
 README.md
 gitignore
 bikeshare.py
-### Credits
+# Credits
 https://www.varonis.com/blog/git-branching#:~:text=To%20merge%20branches%20locally%2C%20use,branch%20into%20the%20main%20branch.
 
 https://stackoverflow.com/questions/5601931/how-do-i-safely-merge-a-git-branch-into-master
